@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me  
-I'm a passionate developer with **1+ year experience** crafting mobile apps with **Flutter** and building beautiful front-end experiences using **HTML**, **CSS**, and **Tailwind CSS**.  
+I'm a passionate developer with **2+ year experience** crafting mobile apps with **Flutter** and building beautiful front-end experiences using **HTML**, **CSS**, and **Tailwind CSS**.  
 I enjoy turning ideas into pixel-perfect, user-friendly apps and love experimenting with **Firebase** for backend magic.  
 
 ---

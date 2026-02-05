@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Muhammad Hossain!  
-🚀 **Flutter App Developer** | 💻 **Frontend Enthusiast** | ☁️ **Firebase Explorer**  
+🚀 **App Developer** | 💻 **Fullstack Developer** | ☁️ **AI|ML Explorer**  
 
 ---
 

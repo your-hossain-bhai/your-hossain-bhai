@@ -1,116 +1,110 @@
-👋 Hi, I’m Muhammad Hossain
+# Hi, I'm Muhammad Hossain
 
-🚀 Full-Stack Developer | 📱 Flutter Developer| 🤖 AI/ML Builder | 🌍 Hackathon Finalist
+**Full-Stack Developer | Flutter Developer | AI/ML Builder |Idealist**
 
-I build real-world, production-ready applications at the intersection of AI, mobile, web, and automation.
-From national hackathons to startup-grade products, I focus on impact, scalability, and clean engineering.
+I specialize in building production-ready applications at the intersection of AI, mobile, web, and automation.
+From national-level hackathons to startup-oriented solutions, I focus on real-world impact, scalability, and clean engineering.
 
-🧠 About Me
+---
 
-🎓 BSc in Computer Science & Engineering,
+## About Me
+
+**BSc in Computer Science & Engineering**
 International Islamic University Chittagong (IIUC)
-📅 Jan 2023 – Dec 2026 
+Jan 2023 – Dec 2026
 
-🎙️ Advisor / Director — The Next Talk BD, a social-media-driven podcast platform
+**Advisor — The Next Talk BD**
+A social-media-driven podcast platform focused on ideas, innovation, and youth voices
 
-🏆 Multiple-time national hackathon finalist
+Multiple-time National Hackathon Finalist
 
-🌾 Passionate about AgriTech, AI for social good, safety tech, and smart cities
+Passionate about AgriTech, AI for social good, safety tech, and smart cities
 
-💡 I love turning complex problems into simple, usable products
+I enjoy transforming complex problems into simple, scalable, and user-friendly solutions
 
-🏆 Achievements & Recognition
 
-🥇 Hult Prize IIUC 2025–26 — Grand Finalist
+## Achievements & Recognition
 
-🌍 Grameenphone FutureMaker 2025 — Finalist 
+Hult Prize IIUC 2025–26 — Grand Finalist
+Grameenphone FutureMaker 2025 — Finalist
+Programming Hero NextGen Hackathon — Finalist
+Solvio AI Hackathon 2025 — Top 100 Teams
+Million X National AI Build-a-thon 2026 — Grand Finalist
 
-🚀 Programming Hero NextGen Hackathon — Finalist
+Proven experience competing in high-pressure, real-world innovation environments, delivering working prototypes with measurable impact.
 
-🤖 Solvio AI Hackathon 2025 (Powered by Programming Hero) — Top 100 Teams
+## Tech Stack
 
-🧠 Million X National AI Build-a-thon 2026 — Grand Finalist
-
-Competed at national-level innovation platforms, delivering working prototypes under real-world constraints.
-
-🛠️ Tech Stack
-💻 Languages & Frameworks
+### Languages & Frameworks
 
 Python, JavaScript, TypeScript
-
 Dart (Flutter), Node.js
-
 C, C++, C#, PL/SQL
 
-📱 Mobile & Web
+### Mobile & Web
 
-Flutter (Production-ready apps)
-
+Flutter (Production-ready applications)
 HTML, CSS, JavaScript
-
 Django, FastAPI
-
 LLM-based Web Applications
 
-🤖 AI / Automation
+### AI / Automation
 
-Machine Learning, AI/ML
-
+Machine Learning & AI/ML Systems
+LLM Integrations
 n8n Automation
 
-LLM Integrations
-
-🗄️ Databases & DevOps
+### Databases & DevOps
 
 MongoDB, SQL Databases
-
 Docker
-
 Git & GitHub
 
-🚀 Featured Projects (Real-World Impact)
-🔐 SafeShake (Flutter + Native Android)
 
-Women’s safety application using shake-based emergency detection, live location sharing, silent alerts, and background services.
-📺 Demo: https://youtu.be/_EQAsRL2Cl4
+## Featured Projects
 
-🌾 KrishokDhoni 
+### SafeShake
 
-Repo: Project Ashtha
-AI-powered agriculture assistant enabling farmers through smart insights, automation, and decision support.
-🔗 Repo: https://github.com/your-hossain-bhai/Project-Ashtha
-
-🏢 Employee Manager / Employee Tracking System
-
-Enterprise-grade employee monitoring & productivity solution.
-🔗 Repo: https://github.com/your-hossain-bhai/EmployeeTracking
-
-🧠 BizPilot AI
-
-AI assistant for SME & business owners — planning, automation, and smart decision support.
-🔗 Repo: https://github.com/your-hossain-bhai/BizPilotAI
-
-🌱 Eco Smart City App
-
-Smart city solution focused on sustainability, urban intelligence, and citizen services.
-📺 Demo: https://youtu.be/I5k91xS1UC0
-
-🎓 SkillBridge
-
-LLM-powered learning & skill development platform.
-🔗 Repo: https://github.com/your-hossain-bhai/SkillBridge
-
-📈 GitHub Stats
+Women’s Safety App (Flutter + Native Android)
+Shake-based emergency detection with live location sharing, silent alerts, and persistent background services.
+Demo: [https://youtu.be/_EQAsRL2Cl4](https://youtu.be/_EQAsRL2Cl4)
 
 
+### KrishokDhoni (Project Ashtha)
+
+AI-powered agriculture assistant providing smart insights, automation, and decision support for farmers.
+Repo: [https://github.com/your-hossain-bhai/Project-Ashtha](https://github.com/your-hossain-bhai/Project-Ashtha)
+
+### Employee Manager / Tracking System
+
+Enterprise-grade employee monitoring and productivity management solution.
+Repo: [https://github.com/your-hossain-bhai/EmployeeTracking](https://github.com/your-hossain-bhai/EmployeeTracking)
+
+### BizPilot AI
+
+AI assistant for SMEs focused on planning, automation, and intelligent decision support.
+Repo: [https://github.com/your-hossain-bhai/BizPilotAI](https://github.com/your-hossain-bhai/BizPilotAI)
 
 
-📫 Let’s Connect
+### Eco Smart City App
 
-🔗 LinkedIn: https://www.linkedin.com/in/muhammadhossain27/
+Smart city platform for sustainability, urban intelligence, and citizen services.
+Demo: [https://youtu.be/I5k91xS1UC0](https://youtu.be/I5k91xS1UC0)
 
-📧 Email: muhammadhossain.27.2001@gmail.com
 
-🧑‍💻 GitHub: https://github.com/your-hossain-bhai
+### SkillBridge
 
-💬 “Build things that matter. Ship fast. Learn faster.”
+LLM-powered platform for learning, upskilling, and career development.
+Repo: [https://github.com/your-hossain-bhai/SkillBridge](https://github.com/your-hossain-bhai/SkillBridge)
+
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/muhammadhossain27/](https://www.linkedin.com/in/muhammadhossain27/)
+Email: [muhammadhossain.27.2001@gmail.com](mailto:muhammadhossain.27.2001@gmail.com)
+GitHub: [https://github.com/your-hossain-bhai](https://github.com/your-hossain-bhai)
+
+## Motto
+
+"Build things that matter. Ship fast. Learn faster."
+

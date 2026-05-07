@@ -25,11 +25,11 @@ I enjoy transforming complex problems into simple, scalable, and user-friendly s
 
 ## Achievements & Recognition
 
-Hult Prize IIUC 2025–26 — Grand Finalist
-Grameenphone FutureMaker 2025 — Finalist
-Programming Hero NextGen Hackathon — Finalist
-Solvio AI Hackathon 2025 — Top 100 Teams
-Million X National AI Build-a-thon 2026 — Grand Finalist
+Hult Prize IIUC 2025–26 - Grand Finalist
+Grameenphone FutureMaker 2025 - Finalist
+Programming Hero NextGen Hackathon - Finalist
+Solvio AI Hackathon 2025 - Top 100 Teams
+Million X National AI Build-a-thon 2026 - Grand Finalist
 
 Proven experience competing in high-pressure, real-world innovation environments, delivering working prototypes with measurable impact.
 

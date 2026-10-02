@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hossain
 
-**Full-Stack Developer | Flutter Developer | AI/ML Builder |Idealist**
+**Full-Stack Developer | Flutter Developer | AI/ML Builder| AI Automation| |Idealist**
 
 I specialize in building production-ready applications at the intersection of AI, mobile, web, and automation.
 From national-level hackathons to startup-oriented solutions, I focus on real-world impact, scalability, and clean engineering.

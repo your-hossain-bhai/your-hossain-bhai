@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-hossain-bhai)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhossain.27.2001@gmail.com)
 
-**AI & Machine Learning · Full-Stack Engineering · Mobile Development · AI Automation · Entrepreneurship**
+**AI & Machine Learning · Full-Stack Engineering · Mobile App Development · AI Automation · Entrepreneurship**
 
 </div>
 

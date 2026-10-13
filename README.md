@@ -28,8 +28,8 @@ My experience spans **AI-powered applications, full-stack development, Flutter m
 Beyond writing code, I enjoy building products, leading teams, participating in innovation competitions, and exploring how technology can create meaningful social impact.
 
 - **Education:** B.Sc. in Computer Science & Engineering, IIUC (2023–2026)
-- **International Learning:** Selected for **GCI World 2026 — University of Tokyo, Matsuo-Iwasawa Laboratory**, with JICA support
-- **Leadership:** CEO, Next Talk Creatives | Co-Founder & Advisor, The Next Talk BD
+- **International Learning:** Selected for **GCI World 2026 — University of Tokyo, Matsuo-Iwasawa Laboratory**
+- **Leadership:** Founder & CEO, ShuvroLabs | Co-Founder, The Next Talk BD
 - **Research:** Deep Learning, Image Forgery Detection, Computer Vision, and Robust AI Systems
 - **Achievements:** Multiple national hackathon and innovation competition finalist
 - **Published Book:** *The Local AI Product Playbook*

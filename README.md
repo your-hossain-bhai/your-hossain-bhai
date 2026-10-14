@@ -327,7 +327,7 @@ I'm interested in collaborating on **AI/ML research, open-source projects, innov
 
 Whether you're a developer, researcher, founder, or someone working on an interesting problem, feel free to reach out.
 
-- **Portfolio:** [View My Portfolio](https://code-canvas--hossain27.replit.app/)
+- **Portfolio:** [View My Portfolio](https://myportfolio-woad-chi.vercel.app/)
 - **LinkedIn:** [Muhammad Hossain](https://www.linkedin.com/in/muhammadhossain27/)
 - **GitHub:** [@your-hossain-bhai](https://github.com/your-hossain-bhai)
 - **Email:** [muhammadhossain.27.2001@gmail.com](mailto:muhammadhossain.27.2001@gmail.com)
